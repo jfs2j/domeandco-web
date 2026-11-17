@@ -1,0 +1,21 @@
+{
+  "name": "DŌMĘ & Co",
+  "short_name": "DŌMĘ & Co",
+  "description": "Conseil et formation agroalimentaire en Île-de-France : qualité HACCP, structuration des procédés, mise sur le marché et projets diaspora.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3D2B",
+  "background_color": "#F7F2E8",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
